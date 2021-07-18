@@ -5,7 +5,8 @@ RCAC using RLS
 
 ![image](https://user-images.githubusercontent.com/60617560/126068279-72592ba8-bf27-4ea0-b6c9-046185d7a833.png)
 
-* functions:
+* functions: 
+  * [Dynamic of Syatem](NonLinDynamic.m)
   * [System Identification](RLS1.m)
   * [Tuning PID Gains](RLS2.m)
 
