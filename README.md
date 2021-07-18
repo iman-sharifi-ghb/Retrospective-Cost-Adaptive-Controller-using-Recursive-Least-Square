@@ -3,7 +3,8 @@ RCAC using RLS
 
 * Dynamics of System:
 
-![image](https://user-images.githubusercontent.com/60617560/126068279-72592ba8-bf27-4ea0-b6c9-046185d7a833.png)
+![image](https://user-images.githubusercontent.com/60617560/126069049-ea0ae892-2d66-4726-a9c6-1040b8a65c5f.png)
+
 
 * functions: 
   * [Dynamic of Syatem](NonLinDynamic.m)
