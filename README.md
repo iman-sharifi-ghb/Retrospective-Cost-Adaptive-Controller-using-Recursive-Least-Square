@@ -5,12 +5,12 @@ Dynamics of System:
 
 ![image](https://user-images.githubusercontent.com/60617560/126068279-72592ba8-bf27-4ea0-b6c9-046185d7a833.png)
 
-functions:
+*functions:
 
-RLS1.m: 
+ *RLS1.m: 
   used for System Identification
 
-RLS2.m: 
+ *RLS2.m: 
   used for Tuning PID gains
 
 Results
