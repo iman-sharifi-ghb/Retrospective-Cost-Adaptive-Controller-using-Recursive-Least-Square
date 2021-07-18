@@ -12,12 +12,12 @@ RCAC using RLS
   * [Tuning PID Gains](RLS2.m)
 
 * Results:
- * Tracking(mixing with white noise):
+  * Tracking(mixing with white noise):
 
 ![alt text](https://github.com/98210184/Retrospective-Cost-Adaptive-Controller-using-Recursive-Least-Square/blob/main/images/Tracking.png?raw=true)
 
 
- * Online Tuning PID Gains:
+  * Online Tuning PID Gains:
 
 ![alt text](https://github.com/98210184/Retrospective-Cost-Adaptive-Controller-using-Recursive-Least-Square/blob/main/images/PID%20Gains.png?raw=true)
 
