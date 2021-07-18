@@ -7,10 +7,10 @@ Dynamics of System:
 
 * functions:
 
- * RLS1.m: 
+ ** RLS1.m: 
   used for System Identification
 
- * RLS2.m: 
+ ** RLS2.m: 
   used for Tuning PID gains
 
 Results
